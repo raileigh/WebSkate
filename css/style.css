@@ -1,0 +1,30 @@
+.miboton{
+    border-radius: 4px;
+   border-color: grey;
+   opacity: 10;
+   background-color: black;
+   color:white;
+   font-weight: 15px;
+}
+
+.miboton:hover{
+    opacity: 1;
+    color:black !important;
+     
+}
+
+.micaja{
+    
+    border-radius: 4px;
+   border-color: black;
+   opacity: 10;
+   background-color: black;
+   color:white;
+    
+}
+
+.mipanel{
+    color: white !important;
+    background-color: black!important;
+    
+}
